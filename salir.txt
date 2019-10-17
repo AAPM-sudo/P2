@@ -1,0 +1,13 @@
+Hola mundo :)
+Miembros:
+--------------------------------------------
+Número socio: 000
+Nombre:ainhoa
+Apellidos:pau
+Motos:[]
+--------------------------------------------
+Número socio: 001
+Nombre:alejandro
+Apellidos:martiç
+Motos:[Moto 123]
+Cesiones:
